@@ -9,6 +9,16 @@ body {
   background-color: white;
 }
 
+
+#image{
+  position: absolute;
+  width: 781px;
+  height: 482px;
+  left: 589px;
+  top: 182px;
+
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
